@@ -237,6 +237,7 @@ header.masthead {
   border: none;
   min-height: 100%;
   padding: 100px 0;
+  background-color:#f7f7f7;
   text-align: center; }
   .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
