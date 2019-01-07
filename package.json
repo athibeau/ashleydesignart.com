@@ -1,8 +1,8 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "4.0.0-alpha",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "title": "Business Casual",
+    "name": "startbootstrap-business-casual",
+    "version": "4.1.1",
+    "description": "A casual HTML website theme for businesses built with Bootstrap",
     "keywords": [
         "css",
         "sass",
@@ -11,9 +11,9 @@
         "theme",
         "template"
     ],
-    "homepage": "http://startbootstrap.com/template-overviews/agency",
+    "homepage": "https://startbootstrap.com/template-overviews/business-casual",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-business-casual/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -23,22 +23,18 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-business-casual.git"
     },
     "dependencies": {
-        "bootstrap": "^4.0.0-alpha.6",
-        "font-awesome": "^4.6.3",
-        "jquery": "^3.2.1",
-        "jquery.easing": "^1.4.1",
-        "tether": "^1.4.0"
+        "bootstrap": "4.1.1",
+        "jquery": "3.3.1"
     },
     "devDependencies": {
-        "browser-sync": "^2.18.8",
+        "browser-sync": "2.24.3",
         "gulp": "^3.9.1",
-        "gulp-clean-css": "^3.0.4",
-        "gulp-header": "^1.8.7",
+        "gulp-clean-css": "3.9.4",
+        "gulp-header": "2.0.5",
         "gulp-rename": "^1.2.2",
-        "gulp-sass": "^3.1.0",
-        "gulp-uglify": "^2.1.2"
+        "gulp-sass": "4.0.1"
     }
 }
