@@ -5,7 +5,7 @@
  */
 body {
   font-family: 'Lora';
-  background: linear-gradient(rgba(27,27,27,1), rgba(155,155,155,1), rgba(155,155,155,1));
+  background-color: whitesmoke;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
